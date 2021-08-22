@@ -23,7 +23,7 @@
 - How may I use Add-1 smoothing with IBMModel1 from nltk
 
 ## TODOs (as of 23 Aug 2021)
-- [ ] Use Add-1 smoothing on translation probablities
+- [ ] Use Add-1 smoothing on translation probabilities
 - [ ] Align transmission and emission matrices by label
 - [ ] Modify Viterbi to allow constraints and scaled contributions of transition probabilities
 - [ ] Auto-Supervised Training on BERT model to perform tagging
