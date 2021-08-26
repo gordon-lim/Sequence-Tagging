@@ -21,11 +21,12 @@
 - Why use IBMModel1 when we already have the alignments between words and labels
 - How did the authors initialize the start probablities in the HMM
 - How may I use Add-1 smoothing with IBMModel1 from nltk
+- Does "bag of image labels" refer to all labels annotated in the image?
 
-## TODOs (as of 23 Aug 2021)
+## TODOs
 - [ ] Use Add-1 smoothing on translation probabilities
-- [ ] Align transmission and emission matrices by label
-- [ ] Modify Viterbi to allow constraints and scaled contributions of transition probabilities
+- [X] Align transmission and emission matrices by label
+- [X] Modify Viterbi to allow constraints and scaled contributions of transition probabilities
 - [ ] Auto-Supervised Training on BERT model to perform tagging
 
 ## References 
